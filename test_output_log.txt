@@ -1,0 +1,35 @@
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+========== Test discovery finished: 3 Tests found in 982.4 ms ==========
+========== Starting test run ==========
+Start Chinese_Zodiak_getAnimal_Test
+    getAnimal(1984)...
+      ...passed
+    getAnimal(1985)...
+      ...passed
+    getAnimal(1986)...
+      ...passed
+    GetAnimal(2022)
+      ...passed
+Chinese_Zodiak_getAnimal_Test PASSED
+Start Chinese_Zodiak_getElement_Test
+    getElement(1984)...
+      ...passed
+    getElement(1985)...
+      ...passed
+    getElement(1986)...
+      ...passed
+    getElement(2022)...
+      ...passed
+Chinese_Zodiak_getElement_Test PASSED
+Start Chinese_Zodiak_getYY_Test
+    getYY(1984)...
+      ...passed
+    getYY(1985)...
+      ...passed
+    getYY(1986)...
+      ...passed
+    GetYY(2022)
+      ...passed
+Chinese_Zodiak_getYY_Test PASSED
+========== Test run finished: 3 Tests (3 Passed, 0 Failed, 0 Skipped) run in 67.2 ms ==========
